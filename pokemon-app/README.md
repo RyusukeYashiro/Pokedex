@@ -69,6 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### pokede (using react)
+### pokedex (using react)
 
 <img width="1710" alt="スクリーンショット 2024-07-20 16 44 12" src="https://github.com/user-attachments/assets/ef79325d-6fc6-4124-8e90-6cf81c6889ba">
